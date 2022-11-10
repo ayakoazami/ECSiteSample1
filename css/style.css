@@ -61,7 +61,6 @@ li {
   margin-bottom: 100px;
 }
 
-
 #item .item-image {
   /* min-width: 400px; */
   flex-shrink: 0;
@@ -191,6 +190,7 @@ li {
 
   #header nav {
     overflow-x: scroll;
+    margin-right: 14px;
   }
 
   #item {
