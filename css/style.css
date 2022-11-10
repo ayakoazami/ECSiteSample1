@@ -190,6 +190,9 @@ li {
 
   #header nav {
     overflow-x: scroll;
+  }
+  
+  #header .menu {
     margin-right: 14px;
   }
 
