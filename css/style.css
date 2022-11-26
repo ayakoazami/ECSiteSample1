@@ -90,6 +90,7 @@ li {
 #item .item-info .order-table {
   width: 100%;
   margin-bottom: 20px;
+  border-collapse: collapse;
 }
 
 #item .item-info .order-table .color,
@@ -138,8 +139,7 @@ li {
 
 #item .item-info .size-table {
   width: 100%;
-  /* border-top: 1px solid #c3c3c3; */
-  /* border-left: 1px solid #c3c3c3; */
+  border-collapse: collapse;
 }
 
 #item .item-info .size-table .size {
@@ -158,8 +158,7 @@ li {
 
 #item .item-info .size-table th,
 #item .item-info .size-table td {
-  border-right: 1px solid #c3c3c3;
-  border-bottom: 1px solid #c3c3c3;
+  border: 1px solid #c3c3c3;
   padding: 10px;
   font-weight: normal;
   text-align: center;
